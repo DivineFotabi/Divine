@@ -11,6 +11,8 @@ Through out my science journey I constantly question myself about the the safety
 
 # Skills:
 
+Phishihg Analysis
+
 Advanced understanding of SIEM concepts and practical application.
 
 Proficiency in analyzing and interpreting network logs.
