@@ -13,7 +13,7 @@ Through out my science journey I constantly question myself about the the safety
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis                             | [<a href="https://github.com">Phishing-Analysis</a>|
+| Phishing Analysis                             | [<a href="https://github.com">DivineFotabi/Phishing-Analysis</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
