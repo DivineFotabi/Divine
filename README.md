@@ -11,14 +11,12 @@ Through out my science journey I constantly question myself about the the safety
 
 # Skills:
 
-Phishihg Analysis
-
-Advanced understanding of SIEM concepts and practical application.
-
-Proficiency in analyzing and interpreting network logs.
-
-Ability to generate and recognize attack signatures and patterns.
-
-Enhanced knowledge of network protocols and security vulnerabilities.
-
-Development of critical thinking and problem-solving skills in cybersecurity.
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Phishing Analysis                             | <a href="https://google.com">Phishing Analysis</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
