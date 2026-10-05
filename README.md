@@ -14,7 +14,7 @@ Through out my science journey I constantly question myself about the the safety
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis                             | <a href="https://github.com/DivineFotabi/Phishing-Analysis">DivineFotabi/Phishing-Analysis</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Soc-Honeynet + Cloud Azure         | <a href="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure.git">DivineFotabi/Soc-Honeynet-Live-Traffic-in-Azure</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
