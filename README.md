@@ -15,10 +15,5 @@ Through out my science journey I constantly question myself about the the safety
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis                             | <a href="https://github.com/DivineFotabi/Phishing-Analysis">DivineFotabi/Phishing-Analysis</a>|
 | Soc-Honeynet + Cloud Azure         | <a href="https://github.com/DivineFotabi/SOC-Honeynet-Live-Traffic-in-Azure.git">DivineFotabi/Soc-Honeynet-Live-Traffic-in-Azure</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Alerts Triage with serviceNow         | <a href="https://github.com/DivineFotabi/Ticket-Triage-with-ServiceNow.git">DivineFotabi/Ticket-Triage-with-ServiceNow</a> ||
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-https://github.com/DivineFotabi/Ticket-Triage-with-ServiceNow.git
+| Investigation of CEO's account take over | <a href="https://github.com/DivineFotabi/Investigation-of-CEO-s-Account-Take-over.git">DivineFotabi/Investigation-of-CEO-s-Account-Take-over</a>|
+| Alerts Triage with serviceNow         | <a href="https://github.com/DivineFotabi/Ticket-Triage-with-ServiceNow.git">DivineFotabi/Ticket-Triage-with-ServiceNow</a> |
